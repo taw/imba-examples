@@ -10,6 +10,7 @@ I wrote some example apps in [Imba](http://imba.io/).
 * `imba-game-of-life` - Game of Life - [view online](https://taw.github.io/imba-game-of-life) - [code](https://github.com/taw/imba-game-of-life)
 * `imba-json-beautifier` - JSON pretty printer - [view online](https://taw.github.io/imba-json-beautifier) - [code](https://github.com/taw/imba-json-beautifier)
 * `imba-matrix-rain` - Matrix Rain - [view online](https://taw.github.io/imba-matrix-rain) - [code](https://github.com/taw/imba-matrix-rain)
+* `imba-minesweeper` - Minesweeper - [view online](https://taw.github.io/imba-minesweeper) - [code](https://github.com/taw/imba-minesweeper)
 * `imba-monoalphabetic` - Monoalphabetic Cipher Decoder - [view online](https://taw.github.io/imba-monoalphabetic) - [code](https://github.com/taw/imba-monoalphabetic)
 * `imba-quote-machine` - Quote Machine - [view online](https://taw.github.io/imba-quote-machine) - [code](https://github.com/taw/imba-quote-machine)
 * `imba-regexp-explorer` - RegExp Explorer - [view online](https://taw.github.io/imba-regexp-explorer) - [code](https://github.com/taw/imba-regexp-explorer)

@@ -8,6 +8,7 @@ I wrote some example apps in [Imba](http://imba.io/).
 * `imba-eyes` - Eyes - [view online](https://taw.github.io/imba-eyes) - [code](https://github.com/taw/imba-eyes)
 * `imba-fifteen` - Fifteen Puzzle - [view online](https://taw.github.io/imba-fifteen) - [code](https://github.com/taw/imba-fifteen)
 * `imba-game-of-life` - Game of Life - [view online](https://taw.github.io/imba-game-of-life) - [code](https://github.com/taw/imba-game-of-life)
+* `imba-geography-quiz` - Geography Quiz - [view online](https://taw.github.io/imba-geography-quiz) - [code](https://github.com/taw/imba-geography-quiz)
 * `imba-json-beautifier` - JSON pretty printer - [view online](https://taw.github.io/imba-json-beautifier) - [code](https://github.com/taw/imba-json-beautifier)
 * `imba-matrix-rain` - Matrix Rain - [view online](https://taw.github.io/imba-matrix-rain) - [code](https://github.com/taw/imba-matrix-rain)
 * `imba-minesweeper` - Minesweeper - [view online](https://taw.github.io/imba-minesweeper) - [code](https://github.com/taw/imba-minesweeper)

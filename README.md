@@ -5,6 +5,7 @@ I wrote some example apps in [Imba](http://imba.io/).
 * `imba-2048` - 2048 Game - [view online](https://taw.github.io/imba-2048) - [code](https://github.com/taw/imba-2048)
 * `imba-ant` - Langton's Ant Simulator -[view online](https://taw.github.io/imba-ant/) - [code](https://github.com/taw/imba-ant)
 * `imba-calculator` - Calculator - [view online](https://taw.github.io/imba-calculator) - [code](https://github.com/taw/imba-calculator)
+* `imba-connect-four` - Connect Four Game - [view online](https://taw.github.io/imba-connect-four) - [code](https://github.com/taw/imba-connect-four)
 * `imba-emoji-memory` - Emoji Memory Game - [view online](https://taw.github.io/imba-emoji-memory) - [code](https://github.com/taw/imba-emoji-memory)
 * `imba-eyes` - Eyes - [view online](https://taw.github.io/imba-eyes) - [code](https://github.com/taw/imba-eyes)
 * `imba-fifteen` - Fifteen Puzzle - [view online](https://taw.github.io/imba-fifteen) - [code](https://github.com/taw/imba-fifteen)

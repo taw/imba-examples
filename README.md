@@ -22,6 +22,7 @@ I wrote some example apps in [Imba](http://imba.io/).
 * `imba-snake` - Snake Game - [view online](https://taw.github.io/imba-snake) - [code](https://github.com/taw/imba-snake)
 * `imba-tier-list-maker` - Tier List Maker - [view online](https://taw.github.io/imba-tier-list-maker) - [code](https://github.com/taw/imba-tier-list-maker)
 * `imba-todo-list` - TODO List - [view online](https://taw.github.io/imba-todo-list) - [code](https://github.com/taw/imba-todo-list)
+* `imba-unicodizer` - Unicodizer - [view online](https://taw.github.io/imba-unicodizer) - [code](https://github.com/taw/imba-unicodizer)
 * `imba-weather` - Weather App - [view online](https://taw.github.io/imba-weather) - [code](https://github.com/taw/imba-weather)
 
 ### Boilerplate
